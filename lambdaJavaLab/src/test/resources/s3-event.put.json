@@ -1,0 +1,14 @@
+{
+  "Records": [
+    {
+      "s3": {
+        "bucket": {
+          "name": "calculator-input-vlv"
+        },
+        "object": {
+          "key": "numbers.txt"
+        }
+      }
+    }
+  ]
+}
